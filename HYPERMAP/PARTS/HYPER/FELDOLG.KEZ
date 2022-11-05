@@ -1,0 +1,59 @@
+ProbaTXT 	db "Hihetetlenl neh"		; 00
+		db "ezen, de r ‚bred"		; 10
+		db "t‚l az   egyik  "		; 20
+		db "legvil grenget“b"		; 30
+		db "b",13,10,"felfedez‚sre!"	; 40
+		db "Egyszer  l tt l "		; 50
+		db " (vagy csak hall"		; 60
+		db "ott l r¢la?) egy Tguarkhant,",13,10
+		db "amely  a puszta ”ld”kl‚s kedv‚‚rt bekapcsol¢dott "
+		db "egy jovi lis mikroszock¢ ‚s",13,10
+		db "egy  kneopatikus molluszk k”z”tt zajl¢ gyilkos "
+		db "csat ba. A l tv ny d”bbenetes",13,10
+		db "volt, ‚s azonnal megmozgatta a fant zi dat...",13,10
+		db "   Alapanyagok:  k‚t  molluszk  h z,  tizenk‚t "
+		db "csepp degrad tor v lad‚k, k‚t",13,10
+		db "szock¢  h¢lyag  ‚s  k‚t  k”t‚l.  R”gz¡tsd  "
+		db "a  k”telek  egyik  v‚g‚t a szock¢",13,10
+		db "h¢lyagokhoz,  a  m sik  v‚g‚t  a  degrad "
+		db "tor  v lad‚kkal felt”lt”tt molluszk",13,10
+		db "h zakhoz.  A  h zakat ¢vatosan rakd "
+		db "egy-egy fa gra, a k”telet vezesd v‚gig a",13,10
+		db "t”rzs ment‚n (lehet“leg ‚szrev‚tlenl)" 
+		db "a f”ldbe  sott h¢lyagokig. Bosszantsd",13,10
+		db "fel  a  Tguarkhant,  ‚s  csald oda, "
+		db "ahol a h¢lyagokat el stad. Ha szerencs‚d",13,10
+		db "van,  a  Tguarkhan  r l‚p  valamelyik"  
+		db "h¢lyagra,  megr ntja  a k”telet, ‚s a",13,10
+		db "nyak ba  ”mlik a degrad tor v lad‚k. "
+		db "A degrad tor v lad‚k speci lis hat ssal",13,10
+		db "van a Tguarkhanra, egyfajta szt zis-"
+		db " llapotba teszi. Mivel a Tguarkhan k‚pes",13,10
+		db "levit lni,  elfog sa  ut n  el‚g egy "
+		db "k”telet er“s¡teni r , ‚s azzal vontatni",13,10
+		db "magad ut n.  A beidom¡t s abb¢l  ll, "
+		db "hogy megpr¢b lod a l‚nyt r besz‚lni,",13,10
+		db "hogy  seg¡tsen  neked  bizonyos  inform"
+		db " ci¢kkal.  Ha  a Tguarkhan megteszi a",13,10
+		db "megfelel“  eskt  telepatikusan  (befej"
+		db "ez“d”tt az idom¡t s), automatikusan",13,10
+		db "elbocs tod (v¡zzel feloldod a szt zist).",13,10
+		db "   Megjegyz‚s:  A  Tguarkhan  csapd t  "
+		db "NEM KELL a KT paranccsal elk‚sz¡teni,",13,10
+		db "el‚g,   ha   az  elfog s  pillanat ban  "
+		db "a  birtokodban  vannak  a  megfelel“",13,10
+		db "alapanyagok.  A  proced£ra  v‚grehajt s hoz"
+		db "  a  FOG  212  356 parancsot kell",13,10
+		db "kiadnod,  30  TVP-‚rt.  Ha  az  "
+		db "elfog s sikeres, 1 h¢lyag ‚s 6 csepp v lad‚k",13,10
+		db "biztosan elhaszn l¢dik.",13,10,"##"
+	
+
+SzMatrix        db      256 dup (?)
+RowDatas        db      4000 dup (0)
+Szoeleje        dw      0
+Soreleje        dw      0
+Szavak          dw      0
+Kozok           dw      0
+Szelesseg       dw      0
+EddigSzeles     dw      0

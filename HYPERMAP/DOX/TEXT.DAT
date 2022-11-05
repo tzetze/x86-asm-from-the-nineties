@@ -1,0 +1,156 @@
+T rgyak
+
+t¡pus:	N - norm l
+	T - terept rgy
+	X - ‚kszer
+	F - fegyver:	FKS = sz£r¢fv.
+			FKV = v g¢fv.
+			FKš = t“fegyver
+			FDS - sz£r¢s dob¢fevgyver
+			...
+			FLš - t“s l“fv.
+
+teljes szekvencia:
+;Fxy:sebz‚s:t m plusz,
+
+##Txxxx:n‚v,KT Tvp,Felt. TP,s£ly*100, r,hol;mib“l,mib“l,mib“l;t¡pus,megj.
+Az Enciklop‚dia ...
+##
+
+##T0001:Deus ex machina,-,-,30,25,L;;M,‚letment“
+A deus ex machina teny‚rn‚l valamivel nagyobb, f‚mb“l k‚szlt, dobozra
+eml‚keztet“ var zst rgy, amely k‚pes birtokos t a legveszedelmesebb  
+helyzetekb“l is kimenteni. Ha egy t mad s, var zslat, vagy b rmilyen  rtalmas
+dolog a hal lodat okozn , akkor a deus ex machina az utols¢ pillanatban
+felragad,  ‚s  messze rep¡t a vesz‚ly helyszin‚t“l, ‚s esetleg m‚g gy¢gy¡t is
+rajtad. Az energi k felszabadul sa sajnos elpuszt¡tja a var zst rgyat, ez‚rt
+haszn lat ut n c‚lszer– £jat szerezned. A deus ex machina telepatikus 
+programokkal  tprogramozhat¢, a DX <t vols g> paranccsal. Haszn latkor a t rgy
+<t vols g> mez“re fog rep¡teni a vesz‚lyt“l, v‚letlenszer– ir nyba. <t vols g>
+maximum  h£sz lehet, minimum egy, alap‚rtelmez‚se nyolc.
+##T0002:kaja,-,-,30,*2,;;N,
+##T0003:vizest”ml“,20,-,20,7,;105;N,20 korty v¡z t rol s
+##T0004:bot,8,-,30,.,BRE;;FKš:1D6:,
+##T0005:bunk¢
+##T0006:k“k‚s
+##T0007:k“hegy– l ndzsa
+##T0008:sz”gesbunk¢
+##T0009:bunk¢sbit
+##T0010:d rda
+##T0011:csontk‚s
+##T0012:csontszurony
+##T0013:k“kalap cs
+##T0014:sntske
+##T0015:tatub“r
+##T0016:bordacsont
+##T0017:sz”gletes k“
+##T0018:parittya
+##T0019:kerek k“
+##T0020:f£v¢cs“
+##T0021:g“tecsont
+##T0022:tske
+##T0023:m‚rgezett tske
+##T0024:kavadulebeny
+##T0025:kavaduisz k
+##T0026:gyenge m‚reg
+##T0027:v¡z
+##T0028:”k”l
+##T0029:smirglilev‚l
+##T0030:var nyszem
+##T0031:smirglibokor
+##T0032:szekszt ns
+##T0033:lapockacsont
+##T0034: s¢
+##T0035:t–zbokor
+##T0036:f klya
+##T0037:dr¢tsz“r
+##T0038:gumifa
+##T0039:z rnyit¢ k‚szlet
+##T0040:kis vaskulcs
+##T0041:gr k¢b“r
+##T0042:t vcs“
+##T0043:tk”r
+##T0044:kir lygy¡kb“r
+##T0045:kis b“rpajzs
+##T0046:kr¢mkaktusz
+##T0047:surran¢k¡gy¢ b“r
+##T0048:antilopb“r
+##T0049:k¡gy¢b“r keszty–
+##T0050:aranyp‚nz
+##T0051:b“rp nc‚l
+##T0052:patak
+##T0053:tavacska
+##T0054:sz”k”k£t
+##T0055:m kr¢zsa-bokor
+##T0056:m kr¢zsa
+##T0057:b“rsisak
+##T0058:k”dmang¢cserje
+##T0059:k”dmang¢
+##T0060:k”dkapu
+##T0061: rny‚ks r
+##T0062:k”dcsillag
+##T0063:tigroszl nfog
+##T0064:csontszablya
+##T0065:sz”ges p nc‚l
+##T0066:sz”ges b“rpajzs
+##T0067:k‚k orchideacserje
+##T0068:k‚korchidea
+##T0069:sz rnyasherny¢
+##T0070:r‚zdarab
+##T0071:r‚zp nc‚l
+##T0072:r‚zsisak
+##T0073:r‚zpajzs
+##T0074:csontkulcs
+##T0075:r‚zkulcs
+##T0076:broznkulcs
+##T0077:r t-fa
+##T0078:m sz¢karom
+##T0079:korongfa
+##T0080:lapkorong
+##T0081:m‚rleg
+##T0082:z”ld veg
+##T0083:ragaszt¢
+##T0084:d¡szes r‚zpajzs
+##T0085:¢ndarab
+##T0086:olvaszt¢kemence
+##T0087:bronzhegy– l ndzsa
+##T0088:bronzsisak
+##T0089:bronzpajzs
+##t0090:bronzp nc‚l
+##T0091:manilla-fa
+--------------------
+
+Sz”rnyek
+
+##Sxxxx:n‚v,szint,tp,v‚d_sz,v‚d_v,v‚d_,‚e min,‚e max,t mad s;sebz,sebz;idom,hol,megj
+
+##S0001:vad sz tatu,0,6,?,?,?,?,?,0;2x1d3;TH,BK
+Ezek a malac m‚ret–, vastag b“r– n‚gyl b£ ragadoz¢k legink bb boz¢tos ‚s
+dombos terepen tal lhat¢k meg. Harcban mells“ karmaikat haszn lj k. Nagyon 
+agressz¡vak, gyakran megt madj k a n luk j¢val nagyobb ellenfelet is. Itt az
+ideje, hogy megtan¡tsd “ket a j¢ modorra...
+##
+
+---------------------
+
+Var zslatok
+
+##Vxxxx:n‚v,t¡pus,hat.mech,vp,tvp, ra;komp,komp,komp;megj
+
+##V0001:v mpiriz ci¢,Te,H,8,5,-,-,
+Ha ezt a var zslatot elmondod csata el“tt, minden sikeres t‚seddel k‚pes 
+leszel az ellenf‚l megsebz‚sekor elvesztett ‚letenergi j nak egy r‚sz‚t
+felsz¡vni, ‚s ezt a saj t sejtjeid regener l s ra ford¡tani. Teh t min‚l 
+nagyobb sebz‚st okozol, ann l t”bbet gy¢gyulsz. A v mpiriz ci¢ az elmond st¢l
+a k”vetkez“ csata v‚g‚ig tart, ‚s nyolc VP-be kerl. Ha akarod, a parancs 
+m sodik param‚terek‚nt megadhatod, hogy a csata v‚g‚n a var zslatot £jb¢l,
+8 VP-‚rt hosszab¡tsd meg. Ah nyat ¡rsz, annyiszor. Pl. V 1 2 hat s ra a parancs
+kiad s n k¡vl m‚g maximum k‚tszer fogod a varazslatot elmondani. Ez egyike 
+azon kev‚s var zslatoknak, amellyel ‚leter“d a maxim lis ‚rt‚k f”l‚ kerlhet.
+
+---------------------
+
+pletek
+
+##Exxxx:n‚v,xkoord,ykoord
+Enc helyett a kldet‚sek, ‚s labirintusok.	

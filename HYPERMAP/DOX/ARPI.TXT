@@ -1,0 +1,14 @@
+Terkep: inditsd el a terkepet /@ opcioval. Ha ESC-el kilepsz, kodolatlan
+lesz a terkep (ezt ne terjeszd azert). Minden mezorol ket szo van
+letarolva, plusz meg annyi, ahany targy van rajta. A legfelso bit
+kulonbozteti meg oket egymastol. Targyknal a kovetkezo 5 bit az ikon
+sorszama, a maradek 10 pedig a targye. Ja, es a targy mindig azutan a
+mezo utan all, amelyiken van.
+A mezo also 4 bitje a talajtipus. Utana ket bit ures, utana egy bit,
+hogy meg van-e jelolve a mezo (inverz) majd hogy ismert-e. A felso 8
+bitbol az also 7 a kirt szoveget jelzi (ha van) a legfolso pedig azt
+hiszem itt 0 es targyaknal 1. A masodik szo egy datum, ez jelzi, hogy
+mikor lett modositva az adott mezo. Ezzel ne foglalkozz.
+Ja es az egesz terkep elejen van meg egy plusz szo, ami a kodolast
+jelzi, ezt is hagyd ki nyugodtan. Ha mar mukodik a progyd, leirom majd a
+kodolast is, az is eleg bonyolult.  

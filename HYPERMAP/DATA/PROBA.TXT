@@ -1,0 +1,26 @@
+T0001:Deus ex machina,-,-,30,25,L;;M,‚letment“
+A deus ex machina teny‚rn‚l valamivel nagyobb, f‚mb“l k‚szlt, dobozra
+eml‚keztet“ var zst rgy, amely k‚pes birtokos t a legveszedelmesebb
+helyzetekb“l is kimenteni. Ha egy t mad s, var zslat, vagy b rmilyen  rtalmas
+dolog a hal lodat okozn , akkor a deus ex machina az utols¢ pillanatban
+felragad,  ‚s  messze rep¡t a vesz‚ly helyszin‚t“l, ‚s esetleg m‚g gy¢gy¡t is
+rajtad. Az energi k felszabadul sa sajnos elpuszt¡tja a var zst rgyat, ez‚rt
+haszn lat ut n c‚lszer– £jat szerezned. A deus ex machina telepatikus
+programokkal  tprogramozhat¢, a DX <t vols g> paranccsal. Haszn latkor a t rgy
+<t vols g> mez“re fog rep¡teni a vesz‚lyt“l, v‚letlenszer– ir nyba. <t vols g>
+maximum  h£sz lehet, minimum egy, alap‚rtelmez‚se nyolc.
+T0002:kaja,,-,-,30,*2,;;N,
+Az ennival¢ (tal n nem meglep“ m¢don) alapvet“ fontoss g£ az ‚letben marad s
+szempontj b¢l. lelemszerz‚ssel ( parancs) p¢tolhatod. Ha ‚hes vagy,
+automatikusan eszel a k‚szleteidb“l.
+T0003:vizest”ml“,20,-,20,7,;105;N,20 korty v¡z t rol s
+A vizest”ml“ben 20 korty v¡z f‚r el. Ha a v¡z k”zel‚ben vagy, automatikusan
+ut nat”lt”d, ha szomjas vagy, iszol bel“le. Nagyap d szerint vizest”ml“t
+evapor“r h jb¢l lehet k‚sz¡teni, de hogy mi a fene lehet az, el nem tudod
+k‚pzelni...
+T0004:bot,8,-,30,.,BRE;;FKš:1D6:,
+A bot a legegyszer–bb, de nem biztos, hogy a legvesz‚lytelenebb fegyver. Egy
+bot beszerz‚se igen egyszer–: erd“ben vagy boz¢tos terleten kell kiadnod a KT
+4 parancsot 8 pont‚rt. A bot nemcsak egy d6 sebz‚s– t“fegyver, hanem kiv l¢
+alapanyag lehet k‚s“bb jobb fegyverek k‚sz¡t‚s‚hez.
+##

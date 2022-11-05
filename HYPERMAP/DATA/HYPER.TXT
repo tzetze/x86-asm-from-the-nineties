@@ -1,0 +1,755 @@
+##T0001:Deus ex machina,-,-,30,25,L;;M,Çletmentì
+A deus ex machina tenyÇrnÇl valamivel nagyobb, fÇmbìl kÇszÅlt, dobozra
+emlÇkeztetì var†zst†rgy, amely kÇpes birtokos†t a legveszedelmesebb
+helyzetekbìl is kimenteni. Ha egy t†mad†s, var†zslat, vagy b†rmilyen †rtalmas
+dolog a hal†lodat okozn†, akkor a deus ex machina az utols¢ pillanatban
+felragad,  Çs  messze rep°t a veszÇly helyszinÇtìl, Çs esetleg mÇg gy¢gy°t is
+rajtad. Az energi†k felszabadul†sa sajnos elpuszt°tja a var†zst†rgyat, ezÇrt
+haszn†lat ut†n cÇlszerñ £jat szerezned. A deus ex machina telepatikus
+programokkal †tprogramozhat¢, a DX <t†vols†g> paranccsal. Haszn†latkor a t†rgy
+<t†vols†g> mezìre fog rep°teni a veszÇlytìl, vÇletlenszerñ ir†nyba. <t†vols†g>
+maximum  h£sz lehet, minimum egy, alapÇrtelmezÇse nyolc.
+##T0002:kaja,,-,-,30,*2,;;N,
+Az ennival¢ (tal†n nem meglepì m¢don) alapvetì fontoss†g£ az Çletben marad†s
+szempontj†b¢l. êlelemszerzÇssel (ê parancs) p¢tolhatod. Ha Çhes vagy,
+automatikusan eszel a kÇszleteidbìl.
+##T0003:vizestîmlì,20,-,20,7,;105;N,20 korty v°z t†rol†s
+A vizestîmlìben 20 korty v°z fÇr el. Ha a v°z kîzelÇben vagy, automatikusan
+ut†natîltîd, ha szomjas vagy, iszol belìle. Nagyap†d szerint vizestîmlìt
+evaporìr h†jb¢l lehet kÇsz°teni, de hogy mi a fene lehet az, el nem tudod
+kÇpzelni...
+##T0004:bot,8,-,30,.,BRE;;FKö:1D6:,
+A bot a legegyszerñbb, de nem biztos, hogy a legveszÇlytelenebb fegyver. Egy
+bot beszerzÇse igen egyszerñ: erdìben vagy boz¢tos terÅleten kell kiadnod a KT
+4 parancsot 8 pontÇrt. A bot nemcsak egy d6 sebzÇsñ Åtìfegyver, hanem kiv†l¢
+alapanyag lehet kÇsìbb jobb fegyverek kÇsz°tÇsÇhez.
+##T0005:bunk¢,
+##T0006:kìkÇs,
+##T0007:kìhegyñ l†ndzsa,
+##T0008:szîgesbunk¢,
+##T0009:bunk¢sbot,
+##T0010:d†rda,
+##T0011:csontkÇs,
+##T0012:csontszurony,
+##T0013:kìkalap†cs,
+##T0014:sÅntÅske,
+##T0015:tatubìr,
+##T0016:bordacsont,
+##T0017:szîgletes kì,
+##T0018:parittya,
+##T0019:kerek kì,
+##T0020:f£v¢csì,
+##T0021:gìtecsont,
+##T0022:tÅske,
+##T0023:mÇrgezett tÅske,
+##T0024:kavadulebeny,
+##T0025:kavaduisz†k,
+##T0026:gyenge mÇreg,
+##T0027:v°z,
+##T0028:îkîl,
+##T0029:smirglilevÇl,
+##T0030:var†nyszem,
+##T0031:smirglibokor,
+##T0032:szekszt†ns,
+##T0033:lapockacsont,
+##T0034:†s¢,
+##T0035:tñzbokor,
+##T0036:f†klya,
+##T0037:dr¢tszìr,
+##T0038:gumifa,
+##T0039:z†rnyit¢ kÇszlet,
+##T0040:kis vaskulcs,
+##T0041:gr†k¢bìr,
+##T0042:t†vcsì,
+##T0043:tÅkîr,
+##T0044:kir†lygy°kbìr,
+##T0045:kis bìrpajzs,
+##T0046:kr¢mkaktusz,
+##T0047:surran¢k°gy¢ bìr,
+##T0048:antilopbìr,
+##T0049:k°gy¢bìr kesztyñ,
+##T0050:aranypÇnz,
+##T0051:bìrp†ncÇl,
+##T0052:patak,
+##T0053:tavacska,
+##T0054:szîkìk£t,
+##T0055:m†kr¢zsa-bokor,
+##T0056:m†kr¢zsa,
+##T0057:bìrsisak,
+##T0058:kîdmang¢cserje,
+##T0059:kîdmang¢,
+##T0060:kîdkapu,
+##T0061:†rnyÇks†r,
+##T0062:kîdcsillag,
+##T0063:tigroszl†nfog,
+##T0064:csontszablya,
+##T0065:szîges p†ncÇl,
+##T0066:szîges bìrpajzs,
+##T0067:kÇk orchideacserje,
+##T0068:kÇkorchidea,
+##T0069:sz†rnyasherny¢,
+##T0070:rÇzdarab,
+##T0071:rÇzp†ncÇl,
+##T0072:rÇzsisak,
+##T0073:rÇzpajzs,
+##T0074:csontkulcs,
+##T0075:rÇzkulcs,
+##T0076:bronzkulcs,
+##T0077:r†t-fa,
+##T0078:m†sz¢karom,
+##T0079:korongfa,
+##T0080:lapkorong,
+##T0081:mÇrleg,
+##T0082:zîld Åveg,
+##T0083:ragaszt¢,
+##T0084:d°szes rÇzpajzs,
+##T0085:¢ndarab,
+##T0086:olvaszt¢kemence,
+##T0087:bronzhegyñ l†ndzsa,
+##T0088:bronzsisak,
+##T0089:bronzpajzs,
+##T0090:bronzp†ncÇl,
+##T0091:manilla-fa,
+##T0092:kîtÇl,
+##T0093:mÇly k£t,
+##T0094:bronzhegyñ ny°l,
+##T0095:bakkurabìr,
+##T0096:bakkuracsizma,
+##T0097:r†kp†ncÇl,
+##T0098:r†kpajzs,
+##T0099:fekete gyîngy,
+##T0100:ugarhÇj,
+##T0101:tinta,
+##T0102:v°zion†rszem,
+##T0103:magszimbÇl,
+##T0104:fÇmr£d,
+##T0105:evaporìrh†j,
+##T0106:fabont¢,
+##T0107:rîvid °j,
+##T0108:ny°lvesszì,
+##T0109:vap†rcserje,
+##T0110:vap†r†g,
+##T0111:hossz£ °j,
+##T0112:mad†rtoll,
+##T0113:xantusz-kaktusz,
+##T0114:kaktusztÅske,
+##T0115:m¢ricserje,
+##T0116:m¢rigyÅmîlcs,
+##T0117:ezÅst nyakl†nc,
+##T0118:p£derszikla,
+##T0119:p£derkì,
+##T0120:t†bla,
+##T0121:jellempr¢ba,
+##T0122:dîzmîngsz°v,
+##T0123:gîcsîrtîs bunk¢,
+##T0124:r¢kafarok,
+##T0125:mandibulapenge,
+##T0126:bronzpenge,
+##T0127:mandibulakasza,
+##T0128:sallank karom,
+##T0129:sallankny°l,
+##T0130:hebrencs†llkapocs,
+##T0131:ubuktÅske,
+##T0132:h¢hÇrbimb¢,
+##T0133:csuklyavir†g,
+##T0134:gyîngymang¢bokor,
+##T0135:gyîngymang¢,
+##T0136:r£nakì,
+##T0137:mÇrg. ubuktÅske,
+##T0138:ubuk dob¢ny°l,
+##T0139:koponyaszimb¢lum,
+##T0140:denevÇrszimb¢lum,
+##T0141:nap szimb¢lum,
+##T0142:szem szimb¢lum,
+##T0143:vir†g szimb¢lum,
+##T0144:kÇt kard szimb.,
+##T0145:vill†mszimb¢lum,
+##T0146:olt†r,
+##T0147:hebrencs csapda,
+##T0148:mocs†ri penke,
+##T0149:grok-kÇpzìdmÇny,
+##T0150:szent jogar,
+##T0151:szv¢-ektoplazma,
+##T0152:vasÇrc,
+##T0153:pirkit,
+##T0154:mÇly szakadÇk,
+##T0155:vaskoh¢,
+##T0156:vil†g°t¢torony,
+##T0157:nyu-suriken,
+##T0158:ezÅst karkîtì,
+##T0159:kis vaspajzs,
+##T0160:vassisak,
+##T0161:nagy vaspajzs,
+##T0162:borosty†n fÅggì,
+##T0163:kar¢csapda,
+##T0164:vasvÇrt,
+##T0165:m†sz¢kamp¢,
+##T0166:ugh mÇreg,
+##T0167:sziklafÇszek,
+##T0168:sull†rh¢lyag,
+##T0169:uzb†nycsìr,
+##T0170:spiritusz,
+##T0171:rîvid kard,
+##T0172:tÇfea-agy,
+##T0173:nekrofun,
+##T0174:harci kalap†cs,
+##T0175:m†rv†nytorony,
+##T0176:vashegyñ ny°l,
+##T0177:szop¢gîdîr,
+##T0178:m°noszk£p,
+##T0179:grifftoj†s,
+##T0180:ezÅst gyñrñ,
+##T0181:vasalt bunk¢,
+##T0182:vashegyñ l†ndzsa,
+##T0183:vaskulcs,
+##T0184:ezÅst kulcs,
+##T0185:nagy bronzkulcs,
+##T0186:nagy vaskulcs,
+##T0187:mÇrg. vasny°l,
+##T0188:mÇrg. ubukdob¢ny°l,
+##T0189:vas dob¢ny°l,
+##T0190:mÇrg. vas dob¢ny°l,
+##T0191:aranyl†nc,
+##T0192:gyîngysor,
+##T0193:arany gyñrñ,
+##T0194:arany karperec,
+##T0195:obszidi†n fÅggì,
+##T0196:tr¢fea nyakl†nc,
+##T0197:igazgy. fÅlbeval¢,
+##T0198:trikornisszarv,
+##T0199:karbin plazma,
+##T0200:gy°kfñcsom¢,
+##T0201:gy°kfñ,
+##T0202:amniosz-fa,
+##T0203:amniosz,
+##T0204:kazm†r,
+##T0205:kazm†r gyîkÇr,
+##T0206:ovimon-bokor,
+##T0207:ovimon-bogy¢,
+##T0208:¢ri†s li†n,
+##T0209:szuperkîtÇl,
+##T0210:fñszertart¢,
+##T0211:s†fr†nypor,
+##T0212:doronytÅdì,
+##T0213:xirnox sz°v,
+##T0214:manifeszt.ny£lv†ny,
+##T0215:praglonc h†rtya,
+##T0216:ketrec,
+##T0217:hurokcsapda,
+##T0218:ketrec csapda,
+##T0219:fedett verem,
+##T0220:h†l¢-csapda,
+##T0221:dob¢h†l¢,
+##T0222:l†ncing,
+##T0223:smaragd vÇdìgyñrñ,
+##T0224:varkaudar l†ndzsa,
+##T0225:Orgyilkos tìr,
+##T0226:ramit kì,
+##T0227:,
+##T0228:helytart¢i jogar,
+##T0229:obszidi†n karkîtì,
+##T0230:l†nckesztyñ,
+##T0231:acÇlpengìke,
+##T0232:ilkin Çrc,
+##T0233:furulya,
+##T0234:tatudob,
+##T0235:doronyduda,
+##T0236:lajh†rcsont,
+##T0237:tank†nykarom,
+##T0238:lant,
+##T0239:pular krist†ly,
+##T0240:kis aranykulcs,
+##T0241:smaragd kulcs,
+##T0242:tÅskecsapda,
+##T0243:°jcsapda,
+##T0244:kvaz†r,
+##T0245:m†rv†nykulcs,
+##T0246:nagy aranykulcs,
+##T0247:fekete bìrcsizma,
+##T0248:pszi-kì,
+##T0249:bumer†ng,
+##T0250:ZAN,
+##T0251:kvaz†rp†ncÇl,
+##T0252:smaragd koszor£,
+##T0253:nekrofun med†l,
+##T0254:regener†l¢ gyñrñ,
+##T0255:tatukîdmîn,
+##T0256:templom,
+##T0257:szent kehely,
+##T0258:nehezÇk,
+##T0259:szop¢kì,
+##T0260:isteni kînnycsepp,
+##T0261:b†jital,
+##T0262:friss csatamezì,
+##T0263:ìsi csatamezì,
+##T0264:rem†ksz°v,
+##T0265:krist†lygîmb,
+##T0266:kvaz†rsisak,
+##T0267:fÅlemÅle agyar,
+##T0268:gromak bìr,
+##T0269:purifik†tor h†j,
+##T0270:gromak p†ncÇl,
+##T0271:szÅrke bìrkesztyñ,
+##T0272:aranytñ,
+##T0273:szuper dob¢h†l¢,
+##T0274:szuper h†l¢csapda,
+##T0275:ametiszt med†l,
+##T0276:s†rga erìîv,
+##T0277:rejtìkîpeny,
+##T0278:umbatari karkîtì,
+##T0279:m†gikus koponya,
+##T0280:tyrex csont,
+##T0281:raptor karom,
+##T0282:jÇgsz°v,
+##T0283:Fekete kehely,
+##T0284:sîtÇt ital,
+##T0285:Szent kulacs,
+##T0286:,
+##T0287:Tharr keresztje,
+##T0288:Zan-induk†tor,
+##T0289:,
+##T0290:,
+##T0291:b°bor erìîv,
+##T0292:,
+##T0293:,
+##T0294:varkaudar p†ncÇl,
+##T0295:,
+##T0296:kvaz†r pajzs,
+##T0297:kvaz†r kard,
+##T0298:arx form†z¢ minta,
+##T0299:bev form†z¢ minta,
+##T0300:cru form†z¢ minta,
+##T0301:din form†z¢ minta,
+##T0302:,
+##T0303:Fairlight kîpenye,
+##T0304:kìszem,
+##T0305:var†zskì,
+##T0306:,
+##T0307:rÇz papi karkîtì,
+##T0308:ezÅst papi karkîtì,
+##T0309:arany papi karkîtì,
+##T0310:galachmit,
+##T0311:borkony¢-cserje,
+##T0312:borkony¢ bibe,
+##T0313:gy¢gykenìcs,
+##T0314:roxati z†rfal¢,
+##T0315:optiri agysisak,
+##T0316:,
+##T0317:,
+##T0318:tapos¢ tappancs,
+##T0319:kîdkard,
+##T0320:kregon zuzm¢,
+##T0321:plazmacsillag,
+##T0322:ezÅsttìr,
+##T0323:ezÅsthegyñ ny°l,
+##T0324:ezÅsthegyñ l†ndzsa,
+##T0325:ezÅstkard,
+##T0326:ezÅstdarab,
+##T0327:ezÅstshuriken,
+##T0328:Thargodan esszencia,
+##T0329:csontp†lca,
+##T0330:mirtuszkoszor£,
+##T0331:mut†ns csont,
+##T0332:huhog¢ bibe,
+##T0333:r†kfatty v†ladÇk,
+##T0334:acÇltñ,
+##T0335:oll¢,
+##T0336:pukkan¢ tñcsapda,
+##T0337:piranha zs†kvÇdì,
+##T0338:kir†lyi korona,
+##T0339:,
+##T0340:hadilobog¢,
+##T0341:alk°mi†z¢ Åst,
+##T0342:fagyîngy fÅzÇr,
+##T0343:rÇzgoly¢,
+##T0344:kincs,
+##T0345:viharfelhì,
+##T0346:r¢zsasz°n bugyog¢,
+##T0347:s£lyz¢,
+##T0348:shinai gîmb,
+##T0349:lovagi tabard,
+##T0350:esszenciakrist†ly,
+##T0351:tolmokov koktÇl,
+##T0352:,
+##T0353:molluszk h†z,
+##T0354:degrad†tor v†ladÇk,
+##T0355:szock¢ h¢lyag,
+##T0356:Tguarkhan csapda,
+##T0357:,
+##T0358:,
+##T0359:quwarg-boly,
+##T0360:quwarg-toj†s,
+##T0361:,
+##T0362:,
+##T0363:ezÅsttoll£ ny°l,
+##T0364:v†mp°rtìr,
+##T0365:Tyrkiai m†sz¢gÇp,
+##T0366:szerencsetalizm†n,
+##T0367:Tr†kin cs†k†nya,
+##T0368:kinemfogy¢ tegez,
+##T0369:gr†nit ìrszobor,
+##T0370:vascarai csizma,
+##T0371:Raia papi pal†stja,
+##T0372:phua-k£p,
+##T0373:Eldaran karkîtìje,
+##T0374:fekete tñ,
+##T0375:fekete csuha,
+##T0376:fÇny szentÇlye,
+##T0377:moa smaragd,
+##T0378:moa gyîngy,
+##T0379:moa rubin,
+##T0380:moa obszidi†n,
+##T0381:moa zaf°r,
+##T0382:moa j†dekì,
+##T0383:moa Åveggîmb,
+##T0384:moa bur†t,
+##T0385:moa gyÇm†nt,
+##T0386:moa kataliz†tor,
+##T0387:¢nix piramis,
+##T0388:natali kì,
+##T0389:szigony,
+##T0390:halcsont,
+##T0391:polip sz°v¢ka,
+##T0392:m†sz¢ karperec,
+##T0393:szent tîlgyfa,
+##T0394:Kìtorony,
+##T0395:†lomvir†g,
+##T0396:†lompor,
+##T0397:,
+##T0398:v†rosÇp°tkezÇs,
+##T0399:fìutca,
+##T0400:h†z,
+##T0401:krist†lypalota,
+##T0402:Murgud hagymatì,
+##T0403:fokhagyma,
+##T0404:r†jabìr,
+##T0405:r†jabìr £sz¢gatya,
+##T0406:rÇz fejp†nt,
+##T0407:bronz fejp†nt,
+##T0408:vas fejp†nt,
+##T0409:†rnyÇkharcos gyñrñ,
+##T0410:k°gy¢bìrîv,
+##T0411:kir†lyi emlÇkmñ,
+##T0412:vÇrvîrîs kîpeny,
+##T0413:moa stuki,
+##T0414:stuki lîvedÇk,
+##T0415:Aranypikkely,
+##T0416:,
+##T0417:,
+##T0418:,
+##T0419:,
+##T0420:agyartìr,
+##T0421:tyrex bunk¢,
+##T0422:m†gusîlì,
+##T0423:sz°vkeresì,
+##T0424:csontpozdorja,
+##T0425:pengepajzs,
+##T0426:,
+##T0427:ìstroll agyal¢,
+##T0428:gr†n†tkaktusz,
+##T0429:kaktuszbogy¢,
+##T0430:bogy¢gr†n†t,
+##T0431:gr†n†tcsapda,
+##T0432:Thargodan csatamezì,
+##T0433:Vlagyimir szobra,
+##T0434:b†ny†szcs†k†ny,
+##T0435:tîrpe b†nya,
+##T0436:rÇz masszariaszt¢,
+##T0437:arany masszariaszt¢,
+##T0438:¢nix masszavad°t¢,
+##T0439:Szent liget,
+##T0440:,
+##T0441:l†thatatlan kîpeny,
+##T0442:,
+##T0443:,
+##T0444:g¢r form†z¢ minta,
+##T0445:kvaz†r kesztyñ,
+##T0446:fekete l¢tusz,
+##T0447:l¢tuszvir†g,
+##T0448:,
+##T0449:krist†lyfolyadÇk,
+##T0450:,
+##T0451:zangrozi csizma,
+##T0452:,
+##T0453:m†guskîpeny,
+##T0454:,
+##T0455:,
+##T0456:,
+##T0457:,
+##T0458:,
+##T0459:,
+##T0460:,
+##T0461:,
+##T0462:,
+##T0463:,
+##T0464:,
+##T0465:,
+##T0466:,
+##T0467:,
+##T0468:,
+##T0469:,
+##T0470:,
+##T0471:,
+##T0472:,
+##T0473:,
+##T0474:,
+##T0475:,
+##T0476:,
+##T0477:,
+##T0478:,
+##T0479:,
+##T0480:c†paîlì tìr,
+##T0481:,
+##T0482:raptor szablya,
+
+##E0500:nyugati var†zsl¢torony
+##E0501:nyugati var†zsl¢torony
+##E0502:nyugati var†zsl¢torony
+##E0503:nyugati var†zsl¢torony
+##E0504:nyugati var†zsl¢torony
+##E0505:nyugati var†zsl¢torony
+##E0506:nyugati var†zsl¢torony
+##E0507:tanya
+##E0508:remetelak
+##E0509:remetelak
+##E0510:remetelak
+##E0511:remetelak
+##E0512:remetelak
+##E0513:remetelak
+##E0514:remetelak
+##E0515:remetelak
+##E0516:remetelak
+##E0517:remetelak
+##E0518:remetelak
+##E0519:remetelak
+##E0520:remetelak
+##E0521:remetelak
+##E0522:remetelak
+##E0523:remetelak
+##E0524:remetelak
+##E0525:remetelak
+##E0526:vegyesbolt
+##E0527:v†rosh†za
+##E0528:kastÇly
+##E0529:kolostor I.
+##E0530:fehÇr gr†nittorony
+##E0531:gn¢mlak
+##E0532:tîrpetanya
+##E0533:kobuderatanya
+##E0534:tanya
+##E0535:fekete gr†nittorony
+##E0536:tan†csad¢ bîlcselì
+##E0537:fegyverbolt
+##E0538:vegyesbolt
+##E0539:v†rosh†za
+##E0540:v†rosh†za
+##E0541:vegyesbolt
+##E0542:fegyverbolt
+##E0543:kolostor I.
+##E0544:kolostor I.
+##E0545:kolostor I.
+##E0546:fegyverbolt
+##E0547:Vangorf gr¢f
+##E0548:Lord Kov†cs J¢zsef
+##E0549:Lady Ol°via
+##E0550:gn¢m kutat¢†llom†s
+##E0551:Vangorf gr¢f
+##E0552:Lord Kov†cs J¢zsef
+##E0553:Lady Ol°via
+##E0554:gn¢m kutat¢†llom†s
+##E0555:kolostor II.
+##E0556:kolostor II.
+##E0557:kolostor II.
+##E0558:kolostor II.
+##E0559:kolostor II.
+##E0560:kolostor II.
+##E0561:j¢sda
+##E0562:fegyvermester
+##E0563:Xantrox Helytart¢i Hivatal
+##E0564:Fairlight Bank
+##E0565:êkszerbolt
+##E0566:sîtÇt kastplom
+##E0567:fegyverbolt
+##E0568:vegyesbolt
+##E0569:sîtÇt kastplom
+##E0570:sîtÇt kastplom
+##E0571:sîtÇt kastplom
+##E0572:fegyvermester
+##E0573:fegyvermester
+##E0574:fegyvermester
+##E0575:j¢sda
+##E0576:j¢sda
+##E0577:j¢sda
+##E0578:Libertan Helytart¢i Hivatal
+##E0579:Wargpin Helytart¢i Hivatal
+##E0580:Huertol Helytart¢i Hivatal
+##E0581:Fairlight Bank
+##E0582:Fairlight Bank
+##E0583:Fairlight Bank
+##E0584:Çkszerbolt
+##E0585:Çkszerbolt
+##E0586:Çkszerbolt
+##E0587:tan†csad¢ bîlcselì
+##E0588:tan†csad¢ bîlcselì
+##E0589:tan†csad¢ bîlcselì
+##E0590:fegyverbolt
+##E0591:fegyverbolt
+##E0592:fegyverbolt
+##E0593:vegyesbolt
+##E0594:vegyesbolt
+##E0595:vegyesbolt
+##E0596:fekete m†gustorony
+##E0597:fekete m†gustorony
+##E0598:fekete m†gustorony
+##E0599:fekete m†gustorony
+##E0600:ismeretlen
+##E0601:ismeretlen
+##E0602:elf villa
+##E0603:elf villa
+##E0604:elf villa
+##E0605:elf villa
+##E0606:elf villa
+##E0607:fogad¢
+##E0608:fogad¢
+##E0609:fogad¢
+##E0610:fogad¢
+##E0611:Csupasz SÅnmedvÇhez fogad¢
+##E0612:fogad¢
+##E0613:fogad¢
+##E0614:pirosl†mp†s h†z
+##E0615:ismeretlen
+##E0616:vegyesbolt
+##E0617:vegyesbolt
+##E0618:vegyesbolt
+##E0619:fegyverbolt
+##E0620:fegyverbolt
+##E0621:fegyverbolt
+##E0622:Szende Onlg¢liant fogad¢
+##E0623:fogad¢
+##E0624:fogad¢
+##E0625:Fairlight Bank
+##E0626:Fairlight Bank
+##E0627:Fairlight Bank
+##E0628:kvaz†r koh¢
+##E0629:kvaz†r koh¢
+##E0630:kvaz†r koh¢
+##E0631:fegyvermester h†za
+##E0632:fegyvermester h†za
+##E0633:fegyvermester h†za
+##E0634:olimpiai arÇna
+##E0635:olimpiai arÇna
+##E0636:olimpiai arÇna
+##E0637:ismeretlen
+##E0638:ismeretlen
+##E0639:kaszin¢
+##E0640:kaszin¢
+##E0641:kaszin¢
+##E0642:fekete m†gustorony
+##E0643:fekete m†gustorony
+##E0644:fekete m†gustorony
+##E0645:j¢sda
+##E0646:j¢sda
+##E0647:j¢sda
+##E0648:szîrnypiac
+##E0649:szîrnypiac
+##E0650:szîrnypiac
+##E0651:kir†lyi palota
+##E0652:kir†lyi palota
+##E0653:kir†lyi palota
+##E0654:Çkszerbolt
+##E0655:Çkszerbolt
+##E0656:Çkszerbolt
+##E0657:tan†csad¢ bîlcselì
+##E0658:tan†csad¢ bîlcselì
+##E0659:tan†csad¢ bîlcselì
+##E0660:ismeretlen
+##E0661:ismeretlen
+##E0662:ismeretlen
+##E0663:ismeretlen
+##E0664:ismeretlen
+##E0665:Sutor Kragoru
+
+##O0000:anonos°tatlan
+##O0001:Sheran
+##O0002:Tharr
+##O0003:Raia
+##O0004:Elenios
+##O0005:Dornodon
+##O0006:Leah
+##O0007:Fairlight
+##O0008:rombolt
+
+##H0001:Shaddar
+##H0002:Qvill
+##H0003:Gattin
+##H0004:Xantrox
+##H0005:Libertan
+##H0006:Wargpin
+##H0007:Huertol
+##H0008:Mirdau-hegysÇg
+##H0009:Ka¢r lank†i
+##H0010:R†m dñnÇi
+##H0011:Ablon mezeje
+##H0012:R†k-hegysÇg
+##H0013:M¢r sivatag
+##H0014:Moisma erdeje
+##H0015:SzÇlfog¢k dñnÇi
+##H0016:M'Mik s°ks†g
+##H0017:Rah¢d orma
+##H0018:Mommean dombjai
+##H0019:Arany dombs†g
+##H0020:H¢hÇr puszta
+##H0021:Horog hegysÇg
+##H0022:Sir†ly s°ks†g
+##H0023:Gorgota erdì
+##H0024:Kis-Nimeron
+##H0025:Nam°d kìsivatagja
+##H0026:Og†r-hegyek
+##H0027:Yamun torkolata
+##H0028:Nimeron êNY-i hat†ra
+##H0029:Feneketlen Mocs†r
+##H0030:Valhalla-hegysÇg
+##H0031:èrnyÇkmocs†r
+##H0032:Pillanat hegysÇg
+##H0033:Warn puszt†i
+##H0034:SzÅrke Erdì
+##H0035:Maad erdeje
+##H0036:Maad sz°ve
+##H0037:Maad gyñrñje
+##H0038:Gr†k¢-hegyek
+##H0039:Nyugati s¢s sivatag
+##H0040:Hr¢k erdeje
+##H0041:Szarkof†g-dombok
+##H0042:Gevîzs-TekÅs s°ks†g
+##H0043:Ottom†r hegysÇg
+##H0044:Nimeron fîldje
+##H0045:SÅllyesztì mocs†r
+##H0046:TÅndÇrerdì
+##H0047:SzÅrke hegyek
+##H0048:Kalimaron vonulat
+##H0049:Ibin dombok
+##H0050:Valik erdeje
+##H0051:S†rk†ny H†ta
+##H0052:Rin taraja
+##H0053:Rin vîlgy
+##H0054:Kegyetlen Sivatag
+##H0055:Abrizu hegyei
+##H0056:Fekete erdì
+##H0057:Ygrol s°ks†g
+##H0058:Paraj-dombok
+##H0059:II. Ulem fasora
+##H0060:Fairlight-hegysÇg
+##H0061:Isuli csatamezì
+##H0062:Malinta erdì
+##H0063:Raggard s°kja
+##H0064:Varkaudar hegysÇg
+##H0065:tengerszem
+##H0066:Alanori csatorna
+##H0067:ßslÇnypark
+##H0068:Keleti Trollkeltetì Z¢na
+##H0069:ïri†sok Fîldje
+##H0070:Arx Mortalis v†rosa
+##H0071:Asylium v†rosa
+##H0072:Borax kir†ly - Alanor
+##H0073:Sistergì Pumpa
+##H0074:Alanor

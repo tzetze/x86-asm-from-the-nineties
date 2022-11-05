@@ -1,0 +1,30 @@
+Each mode in the table below has a mode number. To set the mode, load the AX
+register with this value and do an interrupt 10h. Some modes below have two
+numbers. In these cases load AX with the first number and BX with the second
+before calling interrupt 10h.
+Board                   Chip           Banks     Modes    Resolution  Col GR
+컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴�
+S3 Graphics Accelerator S3             8/16   4F02h,105h  1024x768    256 64k
+Cirrus Logic GD54       VESA           16/64  4F02h,105h  1024x768    256  4k
+
+Tseng ET-4000           TSENG ET4000   8/16      38h      1024x768    256 64k
+Diamond Speedstar 24    TSENG 4000     8/16      38h      1024x768    256 64k
+STB EM 16               TSENG 4000     8/16      38h      1024x768    256 64k
+Compaq QVision          QVISION        8/16      38h      1024x768    256  4k
+
+Trident 8900            TRIDENT 8900   8/16      62h      1024x768    256 64k
+NCR 77C22               NCR            8/16      62h      1024x768    256 64k
+
+Ahead B Chip            AHEADB         8/16      63h      1024x768    256 64k
+
+ATI VGA Wonder+         ATI NEW        4/8/16    64h      1024x768    256 32k
+
+OAK                     OAK            8/16      59h      1024x768    256 64k
+
+Primus P2000 GA         PRIMUS         8/16      31h      1024x768    256 64k
+
+
+
+
+
+

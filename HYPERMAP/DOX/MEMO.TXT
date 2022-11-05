@@ -1,0 +1,13 @@
+1. byte : 7. bit   : terep ismerts‚ge
+          6. bit   : terep jel”lts‚ge
+          0-5. bit : terep t¡usa (0-63)
+
+2. byte : reserved :)
+
+3-4. byte : 11-15. bit : ikon t¡pusa (0-31)
+            0-10. bit  : ikonhoz tartoz¢ ‚rt‚k (0-2047)
+
+ue. m‚g ”tsz”r [a 3-4.]
+
+™sszesen 14 byte. Van 300*128 mez“, ez szorozva 14-el: 537.600byte
+Ez kereken 525 kilobyte, ami 33 EMS lapra f‚r fel.
