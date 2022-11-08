@@ -224,28 +224,28 @@ CHANGE:
 		jmp	DOSQUIT
 NOTESC:		cmp	ax,4B00h
 		jne	NOTLEFT
-		mov	cx,99
+		mov	cx,66
 		xor	bx,bx
 CSORE1:		add	word ptr ds:[si+bx],16
 		add	bx,6
 		loop	CSORE1
 NOTLEFT:	cmp	ax,4D00h
 		jne	NOTRIGHT
-		mov	cx,99
+		mov	cx,66
 		xor	bx,bx
 CSORE2:		sub	word ptr ds:[si+bx],16
 		add	bx,6
 		loop	CSORE2
 NOTRIGHT:	cmp	ax,5000h	
 		jne	NOTDOWN
-		mov	cx,99
+		mov	cx,66
 		mov	bx,4
 CSORE3:		add	word ptr ds:[si+bx],16
 		add	bx,6
 		loop	CSORE3		
 NOTDOWN:	cmp	ax,4800h
 		jne	NONE
-		mov	cx,99
+		mov	cx,66
 		mov	bx,4
 CSORE4:		sub	word ptr ds:[si+bx],16
 		add	bx,6
